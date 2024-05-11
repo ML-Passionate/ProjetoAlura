@@ -1,3 +1,5 @@
+ <img src="Banner.jpg" />
+
 # Debate do século: Lula.ai versus Bolsonaro.ai ! Participe.
 Este projeto foi desenvolvido para demonstrar as capacidades do Gemini do Google. O projeto usa e "abusa" da função chat. A idéia é promover um debate saudável entre o Sr. Luis Inácio da Silva, Lula e o Sr. Bolsonaro. O Usuário poderá fazer a pergunta e os dois políticos irão responder baseando-se na sua visão política e no seu projeto de governo. 
 
