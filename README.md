@@ -13,7 +13,7 @@ Nós filtramos as baixarias e insultos e determinamos que os políticos sejam ed
 O projeto pode ser aprimorado utilizando-se a voz e um avatar dos políticos para apresentar seus pontos de vista... porém para isso, conto com seu voto para que este projeto seja ELEITO o melhor da imersão Alura-Google. Obrigado ! Vote no projeto! Vamos escolher a IA para substiruir esses políticos reais que só nos enrolam!
 
 # Autor
-Olá, meu nome é Ricardo e estudo gestão financeira na FGV. Sou apaixonado por TI e em especial sobre IA. Com relação a Inteligência Artificial sou otimista! Não acho que a Cybernet tomará o controle e destruirá nossa civilização. Acredito que a Inteligência Artificial nos ajudará a explorar novos mundos e popular a galáxia, porém teremos que nos acostumar a viver em sintonia com um ente que é, em muitas vezes, mais inteligente que a gente! Portanto, é um momento de humildade da nossa espécie, onde nosso "filho superará os pais", porém em prol da evolução e da vida.
+Olá, Sou apaixonado por TI e em especial sobre IA. Com relação a Inteligência Artificial sou otimista! Não acho que a Cybernet tomará o controle e destruirá nossa civilização. Acredito que a Inteligência Artificial nos ajudará a explorar novos mundos e popular a galáxia, porém teremos que nos acostumar a viver em sintonia com um ente que é, em muitas vezes, mais inteligente que a gente! Portanto, é um momento de humildade da nossa espécie, onde nosso "filho superará os pais", porém em prol da evolução e da vida.
 
 Vai dar certo! (e se não der... it was a hell of a journey!).
 
